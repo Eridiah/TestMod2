@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "axis=y,variant=copper": { "model": "tm:log_copper" },
+        "axis=z,variant=copper": { "model": "tm:log_copper", "x": 90 },
+        "axis=x,variant=copper": { "model": "tm:log_copper", "x": 90, "y": 90 },
+        "axis=none,variant=copper": { "model": "tm:log_copper" },
+        
+        "axis=y,variant=aluminum": { "model": "tm:log_aluminum" },
+        "axis=z,variant=aluminum": { "model": "tm:log_aluminum", "x": 90 },
+        "axis=x,variant=aluminum": { "model": "tm:log_aluminum", "x": 90, "y": 90 },
+        "axis=none,variant=aluminum": { "model": "tm:log_aluminum" }
+    }
+}

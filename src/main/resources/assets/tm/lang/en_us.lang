@@ -1,0 +1,37 @@
+itemGroup.test_tab_items=TestMod2 Items
+itemGroup.test_tab_blocks=TestMod2 Blocks
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_eridium.name=Eridium Ingot
+item.shard_eridium.name=Eridium Shard
+
+tile.block_copper.name=Copper Block
+tile.block_eridium.name=Eridium Block
+
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+tile.ore_overworld_aluminum.name=Aluminum Ore
+tile.ore_end_aluminum.name=Ender Aluminum Ore
+tile.ore_nether_aluminum.name=Fiery Aluminum Ore
+
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_end_copper.name=Ender Copper Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
+
+tile.planks_aluminum.name=Aluminum Planks
+tile.log_aluminum.name=Aluminum Log
+tile.leaves_aluminum.name=Aluminum Leaves
+tile.sapling_aluminum.name=Aluminum Sapling
+
+tile.planks_copper.name=Copper Planks
+tile.log_copper.name=Copper Log
+tile.leaves_copper.name=Copper Leaves
+tile.sapling_copper.name=Copper Sapling

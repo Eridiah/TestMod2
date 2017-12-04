@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=copper": { "model": "tm:leaves_copper" },
+        "check_decay=true,decayable=false,variant=copper": { "model": "tm:leaves_copper" },
+        "check_decay=false,decayable=true,variant=copper": { "model": "tm:leaves_copper" },
+        "check_decay=false,decayable=false,variant=copper": { "model": "tm:leaves_copper" },
+        
+        "check_decay=true,decayable=true,variant=aluminum": { "model": "tm:leaves_aluminum" },
+        "check_decay=true,decayable=false,variant=aluminum": { "model": "tm:leaves_aluminum" },
+        "check_decay=false,decayable=true,variant=aluminum": { "model": "tm:leaves_aluminum" },
+        "check_decay=false,decayable=false,variant=aluminum": { "model": "tm:leaves_aluminum" }
+    }
+}

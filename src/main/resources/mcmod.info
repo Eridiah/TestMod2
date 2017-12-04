@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Test Mod 2",
+  "description": "The updated, CORRECT version of Eridiah's Test Mod.",
+  "version": "Alpha v0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eridiah"],
+  "credits": "HTR for the organization techniques, and a bunch of other people for a bunch of random things.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
